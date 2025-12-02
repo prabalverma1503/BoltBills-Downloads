@@ -1,1 +1,30 @@
-# This is a installer file for BoltBills V1.1.0
+🚀 What's New in BoltBills v2.0.0
+This is a major update focusing on inventory accuracy, vendor management, and flexibility. We have completely overhauled how bills and stock interact.
+
+✨ Key Features
+1. Full Bill Editing
+
+Edit Saved Bills: You no longer need to delete and recreate a bill if you make a mistake. You can now open existing bills, modify items, quantities, or prices, and save changes instantly.
+
+2. Smart Inventory Management
+
+Automatic Stock Deduction: When a bill is generated, the item quantity is now automatically deducted from your global stock.
+
+Vendor Stock Updates: When you add a purchase entry in the Vendor section, the stock for those items is automatically added to your inventory.
+
+3. Vendor Ledger System
+
+Track Vendor Dues: Introduced a dedicated Vendor Ledger. You can now track purchase history, payments made, and outstanding balances for all your suppliers.
+
+4. Enhanced User Experience
+
+Keyboard Shortcuts: Added new hotkeys to speed up your workflow (e.g., quick save, new bill navigation).
+
+UI Overhaul: Significant visual improvements and a cleaner layout to make navigation smoother and more intuitive.
+
+🐛 Bug Fixes & Improvements
+Fixed issues where stock counts were not syncing immediately.
+
+General performance improvements for faster loading.
+
+Resolved minor UI alignment issues on smaller screens.
